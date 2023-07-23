@@ -31,15 +31,15 @@ Các chu kỳ của các triệu chứng nghiêm trọng thường được theo
 
 ### People may experience (Người bệnh có thể trải nghiệm):
 
-- Cognitive: belief that an ordinary event has special and personal meaning, delusion, thought disorder, racing thoughts, thoughts of suicide, or false belief of superiority
+Cognitive: belief that an ordinary event has special and personal meaning, delusion, thought disorder, racing thoughts, thoughts of suicide, or false belief of superiority
 
 Nhận thức: niềm tin rằng một sự kiện bình thường có ý nghĩa đặc biệt và cá nhân, ảo tưởng, rối loạn suy nghĩ, suy nghĩ đua đòi, ý nghĩ tự tử hoặc niềm tin sai lầm về sự vượt trội
 
-- Mood: anxiety, euphoria, hopelessness, limited range of emotions, loss of interest or pleasure in activities, or mood swings
+Mood: anxiety, euphoria, hopelessness, limited range of emotions, loss of interest or pleasure in activities, or mood swings
 
 Tâm trạng: lo lắng, hưng phấn, vô vọng, phạm vi cảm xúc hạn chế, mất hứng thú hoặc niềm vui trong các hoạt động, hoặc thay đổi tâm trạng
 
-- Psychological: depression, hallucination, paranoia, psychosis, hearing voices, or grandiosity
+Psychological: depression, hallucination, paranoia, psychosis, hearing voices, or grandiosity
 
 Tâm lý: trầm cảm, ảo giác, hoang tưởng, rối loạn tâm thần, nghe thấy giọng nói hoặc tự cao
 
@@ -47,11 +47,11 @@ Behavioral: social isolation, impulsivity, self-harm, or sudden increases in ene
 
 Hành vi: cô lập xã hội, bốc đồng, tự làm hại bản thân hoặc tăng năng lượng đột ngột
 
-- Whole body: appetite changes or restlessness
-  Toàn thân: thay đổi khẩu vị hoặc bồn chồn
+Whole body: appetite changes or restlessness
+Toàn thân: thay đổi khẩu vị hoặc bồn chồn
 
-- Also common: rapid and frenzied speaking
-  Cũng phổ biến: nói nhanh và nói điên cuồng
+Also common: rapid and frenzied speaking
+Cũng phổ biến: nói nhanh và nói điên cuồng
 
 ## Treatments (Phương pháp điều trị)
 
