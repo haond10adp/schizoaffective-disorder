@@ -2,12 +2,11 @@ Tôi là Hào. Tôi bị chẩn đoán rối loạn phân liệt cảm xúc lọ
 
 # Schizoaffactive disorder (Rối loạn phân liệt cảm xúc)
 
-## Overview(Tổng quan)
+## Overview (Tổng quan)
 
 A mental health condition including schizophrenia and mood disorder symptoms.
-Một hội
 
-Một tình trạng sức khỏe tâm thần bao gồm tâm thần phân liệt và các triệu chứng rối loạn tâm trạng.
+> Một tình trạng sức khỏe tâm thần bao gồm tâm thần phân liệt và các triệu chứng rối loạn tâm trạng.
 
 Schizoaffective disorder is a combination of symptoms of schizophrenia and mood disorder, such as depression or bipolar disorder. Symptoms may occur at the same time or at different times.
 
